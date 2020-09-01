@@ -1,0 +1,6 @@
+### 启动端口号
+server:
+  port: 9008
+spring:
+  application:
+    name: itrip-searchtest-consumer

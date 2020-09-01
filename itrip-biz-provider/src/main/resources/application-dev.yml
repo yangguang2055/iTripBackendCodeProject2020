@@ -1,0 +1,10 @@
+### 配置启动端口号
+server:
+  port: 9006
+### 配置项目应用名
+spring:
+  application:
+    name: itrip-biz-provider
+  data:
+    solr:
+      host: http://localhost:8060/solr/hotel

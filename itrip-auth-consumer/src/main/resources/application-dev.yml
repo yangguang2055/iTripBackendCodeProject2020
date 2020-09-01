@@ -1,0 +1,6 @@
+### 启动端口号
+server:
+  port: 9002
+spring:
+  application:
+    name: itrip-auth-consumer

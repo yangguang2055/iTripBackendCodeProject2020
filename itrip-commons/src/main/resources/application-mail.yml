@@ -1,0 +1,6 @@
+### 配置邮件发送功能
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 1156000205@qq.com
+    password: syjiqqsjlwbybafa
